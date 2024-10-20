@@ -20,7 +20,7 @@ Aplikasi ini dibangun dengan menggunakan:
 
 ## Structure
 Dibawah ini Merupakan folder dan sub folder yang digunakan dalam merancang aplikasi MoxFlix. Dalam merancang Aplikasi ini saya menggunakan 4 java class dan 4file berjenis xml. Berikut tampilannya:
-![Uploading struktur.png…]()
+![struktur](https://github.com/user-attachments/assets/522d85da-6006-416f-b681-8d3005c07bd9)
 
 ## Installation
 1. Untuk menginstal aplikasi ini, kamu bisa mendownload file pada folder PPM.ZIP diatas
@@ -269,4 +269,11 @@ fragment_b.xml
 ```
 ## MOXFIX
 Berikut Merupakan Tampilan Aplikasi Moxfix :
+### Before Pilih Film
+![WhatsApp Image 2024-10-20 at 23 30 11](https://github.com/user-attachments/assets/0c61980c-2be6-4660-bc9d-0b7e563e0aef)
+### After Pilih Film
+![WhatsApp Image 2024-10-20 at 23 30 11 (1)](https://github.com/user-attachments/assets/e4615f4a-4736-48c1-bff2-224af83ddb4a)
 
+#THANKYOU
+# Salsabila Alinda Putri
+# salsabilaalindaputri@gmail.com
