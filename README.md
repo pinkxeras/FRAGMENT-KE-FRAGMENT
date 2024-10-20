@@ -20,7 +20,7 @@ Aplikasi ini dibangun dengan menggunakan:
 
 ## Structure
 Dibawah ini Merupakan folder dan sub folder yang digunakan dalam merancang aplikasi MoxFlix. Dalam merancang Aplikasi ini saya menggunakan 4 java class dan 4file berjenis xml. Berikut tampilannya:
-
+![Uploading struktur.png…]()
 
 ## Installation
 1. Untuk menginstal aplikasi ini, kamu bisa mendownload file pada folder PPM.ZIP diatas
